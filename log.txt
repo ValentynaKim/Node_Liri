@@ -1,0 +1,112 @@
+0
+Name of the Venue: Tecate Live Out 2019
+Venue Location: undefined
+Date of the Event: 2019-10-19T12:00:00
+1
+Name of the Venue: Voodoo Music + Arts Experience
+Venue Location: undefined
+Date of the Event: 2019-10-26T12:00:00
+2
+Name of the Venue: Intersect
+Venue Location: undefined
+Date of the Event: 2019-12-06T17:00:00
+0
+song name: Chudo
+preview song: https://p.scdn.co/mp3-preview/34787299027c3fb3168b3adb3d74551d00d7722c?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Azzarenie
+artist(s): Alex Kulak
+1
+song name: Chudo
+preview song: https://p.scdn.co/mp3-preview/94159df30dca74dbbd95e0d2a608d0b450340418?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Kopche Za San - Children Musical (Button For Sleep)
+artist(s): Ts.Miteva
+2
+song name: Chudo
+preview song: https://p.scdn.co/mp3-preview/044caec3725fb9f64e8d83ddfd2294a3f26063a0?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Lili Ivanova - Bez Pravila, Gold Collection
+artist(s): Lili Ivanova
+3
+song name: Chudo
+preview song: https://p.scdn.co/mp3-preview/1fa738cd9570663e1bcc095ba3cbb7d9ab73dd6c?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Bez Pravila - Golden Collection, Vol.2
+artist(s): Lili Ivanova
+4
+song name: Chudo
+preview song: https://p.scdn.co/mp3-preview/a569409390829aa18595fe6de2864586b8d307a1?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Ustrem
+artist(s): Margarita Hranova
+5
+song name: Chudo
+preview song: https://p.scdn.co/mp3-preview/a0c6540c0fabc6e9370f0606c7d6e9b27e3fc556?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Popravni
+artist(s): Postolar Tripper
+6
+song name: Chudo
+preview song: https://p.scdn.co/mp3-preview/051e338166f4693b0571c56fb99ce94fe6d74309?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Me Mankas Mucho
+artist(s): Baklava
+7
+song name: Chudo chudnoe
+preview song: null
+album: Ranevskaia
+artist(s): Lolita
+8
+song name: Chudo Ryapa
+preview song: https://p.scdn.co/mp3-preview/591dade557685eb13c4442004495225ca7a4254c?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: 38 Zlatni Pesnichki Za Nai-Malkite (38 Golden Songs For The Youngest)
+artist(s): Atanas Srebrev
+9
+song name: Chudo-chudesa
+preview song: https://p.scdn.co/mp3-preview/a758cbe2f62bbccb7da781808108ef9776963a8d?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version)
+artist(s): Vadim Kozin
+10
+song name: Osmo chudo
+preview song: https://p.scdn.co/mp3-preview/3f71bcb200f11f2943153c5284555ad898aa1664?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Tsar Football
+artist(s): Yordanka Hristova
+11
+song name: Jeto chudo
+preview song: https://p.scdn.co/mp3-preview/617dd28bf47a9ca5375d86b8abda63ea34b2002c?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Ty daesh mne milost
+artist(s): C Hrista voskresshego
+12
+song name: Neizbejno Chudo
+preview song: https://p.scdn.co/mp3-preview/c76a632dc469b3c234f933133f801242caeed6a2?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: The Best (1976-1987)
+artist(s): Kukeri
+13
+song name: Osmo chudo
+preview song: https://p.scdn.co/mp3-preview/3f71bcb200f11f2943153c5284555ad898aa1664?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Tsar Football
+artist(s): Yordanka Hristova
+14
+song name: Shamadiyano Amar Chudo
+preview song: https://p.scdn.co/mp3-preview/fb9fa6cc0d4d460f6e003e8f152974ec02ccef73?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Ram Sagar Na Rankare
+artist(s): Hemant Chonahan
+15
+song name: Chudo - Original Mix
+preview song: https://p.scdn.co/mp3-preview/184e1052ac0ddad249e5475d89600ae09002ffa8?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: To Your Light
+artist(s): Arsphfex
+16
+song name: Kakvo E Chudo
+preview song: https://p.scdn.co/mp3-preview/758e89e9390529e9ac3bf851d8a7904eaa609318?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Lend Me An Ear
+artist(s): Mark Gilston
+17
+song name: Chudo - Original Mix
+preview song: https://p.scdn.co/mp3-preview/bb54247f45292714eb851f79d425935117818d08?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Chudo
+artist(s): Rusky Rusk
+18
+song name: Chudo - Instrumental Version
+preview song: https://p.scdn.co/mp3-preview/b8d66777dd66796a1eda8dd7effa803b358250ed?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Lili Ivanova - Bez Pravila, Gold Collection
+artist(s): Lili Ivanova
+19
+song name: Chudo Lakharan Ko
+preview song: https://p.scdn.co/mp3-preview/94fc4632a8e221ed23aeabebdf5a8bdce51447c1?cid=50ca91e9b05a4c09a4a81755bd0cb4e4
+album: Mhare Haath Ko Churhlo Laade Re
+artist(s): Rekha Rao
